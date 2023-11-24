@@ -16,8 +16,8 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 <br/>
 
 <div align="center">
-<img width=55% heigth=195px src="https://github-readme-stats.vercel.app/api?username=Caio-Lima&show_icons=true&theme=tokyonight">
-<img width=35% heigth=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Lima&show_icons=true&theme=tokyonight">
+<img width=55% heigth=195px src="https://github-readme-stats.vercel.app/api?username=KaioLimaX&show_icons=true&theme=tokyonight">
+<img width=35% heigth=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioLimaX&show_icons=true&theme=tokyonight">
 </div>
 
 ## Últimos aplicativos criados:
