@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4278e3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ad4a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+William+Sobrinho;Tenho+29+anos+e+moro+em+Nova+Iguaçú,+RJ;Sou+dev+mobile+graduado+em+Física+pela+UERJ;Seja+bem+vindo+ao+meu+portfólio!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ad4a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Caio+Lima;Tenho+29+anos+e+moro+em+Extrema,+MG;Sou+dev+mobile;Seja+bem+vindo+ao+meu+portfólio!+:%29)](https://git.io/typing-svg)
 
 # Olá! Eu sou o William Sobrinho  ✋🙂
 "Apaixonado por tecnologia, programação, física e investimentos"
