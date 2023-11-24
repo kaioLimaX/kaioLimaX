@@ -60,7 +60,7 @@ Logo no primeiro período da faculdade, tive contato com linguagem de programaç
 
 Minha sede por resolver problemas só aumentou, porém meu conhecimento ainda era muito focado na parte do jogo em si. No meu dia a dia, surgiam diversos problemas comuns que exigiam diferentes formas de resolução. Inicialmente, desejava desenvolver um sistema multiplataforma, mas não tinha conhecimento para isso. Então, desenvolvi um sistema responsivo utilizando Bootstrap. Entretanto, não tinha acesso a todos os recursos disponíveis para um sistema mobile. Após concluir todo o sistema responsivo, comecei a estudar programação híbrida em Java, desenvolvendo aplicativos como uma calculadora de juros compostos, um sistema de gerenciamento de estoque, um sistema de pagamento para motoboys e um sistema de GPS para uma loja de móveis. Foi a partir desse momento que minha paixão pelo desenvolvimento mobile só aumentou.
 
-No início de 2023, decidi me dedicar integralmente ao desenvolvimento mobile e iniciei uma mentoria intensiva com a CODANS, onde aprendi diversos princípios e arquiteturas para aprimorar minhas práticas de programação. No ano de 2024, irei iniciar um tecnólogo na área de Desenvolvimento Mobile.
+No início de 2022, decidi me dedicar integralmente ao desenvolvimento mobile e iniciei uma mentoria intensiva com a CODANS, onde aprendi diversos princípios e arquiteturas para aprimorar minhas práticas de programação. No ano de 2024, irei iniciar um tecnólogo na área de Desenvolvimento Mobile.
  <br/>
 
 
