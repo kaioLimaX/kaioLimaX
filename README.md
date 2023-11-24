@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ad4a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Caio+Lima;Tenho+29+anos+e+moro+em+Extrema,+MG;Sou+dev+mobile;Seja+bem+vindo+ao+meu+portfólio!+:%29)](https://git.io/typing-svg)
 
-# Olá! Eu sou o William Sobrinho  ✋🙂
-"Apaixonado por tecnologia, programação, física e investimentos"
+# Olá! eu sou Caio Lima  ✋🙂
+"Apaixonado por tecnologia, programação, Musica e investimentos"
 
 ## Resumo Profissional
-Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
+Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android . Acostumado a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App Portal da Transparência em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código.
 <br/>
 
-Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
+Tenho noções básicas em Python, Flutter e HTML mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
 <br/>
 
 Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e evoluir em conjunto. Desejo encontrar uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
