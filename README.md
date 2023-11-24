@@ -22,8 +22,9 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 
 ## Últimos aplicativos criados:
 
+- [App MobNews ->](https://github.com/kaioLimaX/MobNews)App com requisições de api, Retrofit, Utilizaçao de tokens, entre outros
 - [App MarketCalc ->](https://github.com/kaioLimaX/MarketCalc) O app Basicamente faz o calculo enquanto vc está utilizando o mercado
-- [FakeStore APP ->](https://github.com/kaioLimaX/FakeStoreAPI) App com requisições API representando uma loja de roupas
+- [FakeStore APP ->](https://github.com/kaioLimaX/FakeStoreAPI) App com requisições API representando uma loja de roupas  
   
 <br/>
 
