@@ -55,19 +55,20 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 <br/>
 
 ## Resumo Educacional
-Me chamo William, sou uma pessoa curiosa e gosto de aprender novas habilidades. Formado em física pela Universidade do Estado do Rio de Janeir (UERJ) durante a faculdade comecei a ter contato com análise de dados e elaboração de relatórios. Entendi a importância do trabalho em equipe nas reuniões diárias para estudo com os amigos na biblioteca , esses encontros eram fundamentais para a solução dos problemas mais difíceis de cada matéria. Logo no primeiro período já tivemos contato com linguagem de programação e lógica. <br/>
-Durante a faculdade comecei a me interessar por de encontrar padrões em gráficos dos mais variados tipos de investimentos. Comecei com planejamento/criação de estratégia de investimentos na plataforma MetaTrader5 na qual eu usava um robô para automatizar as operações e testá-las no gráfico dos anos passados e ver se o resultado seria lucro ou prejuízo. Nessa época, comecei a desenvolver minha comunicação e meu lado autodidata, pois não havia professor que ensinasse a configurar o robô, então eu pesquisava na comunidade do Discord para solucionar os erros que apareciam. 
+Me chamo Caio e sou uma pessoa curiosa, sempre em busca de novos conhecimentos e habilidades. Há mais de 10 anos sou músico e sou apaixonado por tecnologia. Durante a faculdade de Engenharia Civil, tive meu primeiro contato com análise de dados e elaboração de relatórios. Percebi a importância do trabalho em equipe durante as reuniões diárias com amigos na biblioteca, pois esses encontros nos ajudavam a resolver os problemas mais difíceis de cada matéria.
+Logo no primeiro período da faculdade, tive contato com linguagem de programação e lógica, mas minha paixão pela área foi despertada mesmo na minha experiência como jogador de videogame. Porém, havia coisas no jogo que não estavam de acordo com o que eu desejava, então decidi criar meu próprio servidor. Foi nesse momento que tive meu primeiro contato real com programação, utilizando HTML, CSS, XML, Lua e também aprendi a utilizar o sistema operacional Linux. Utilizei também o banco de dados MySQL. A partir daí, iniciei minha carreira realizando manutenção e implementação de recursos para clientes que possuíam servidores na época.
+
+Minha sede por resolver problemas só aumentou, porém meu conhecimento ainda era muito focado na parte do jogo em si. No meu dia a dia, surgiam diversos problemas comuns que exigiam diferentes formas de resolução. Inicialmente, desejava desenvolver um sistema multiplataforma, mas não tinha conhecimento para isso. Então, desenvolvi um sistema responsivo utilizando Bootstrap. Entretanto, não tinha acesso a todos os recursos disponíveis para um sistema mobile. Após concluir todo o sistema responsivo, comecei a estudar programação híbrida em Java, desenvolvendo aplicativos como uma calculadora de juros compostos, um sistema de gerenciamento de estoque, um sistema de pagamento para motoboys e um sistema de GPS para uma loja de móveis. Foi a partir desse momento que minha paixão pelo desenvolvimento mobile só aumentou.
+
+No início de 2023, decidi me dedicar integralmente ao desenvolvimento mobile e iniciei uma mentoria intensiva com a CODANS, onde aprendi diversos princípios e arquiteturas para aprimorar minhas práticas de programação. No ano de 2024, irei iniciar um tecnólogo na área de Desenvolvimento Mobile.
+ <br/>
+
 
 
 
 
 <br/>
 
-## Projetos em construção:
-- [App My Market List ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List
-)  Atualmente trabalho em conjunto com outros dois colegas de faculdade, [Diogo Agra](https://github.com/diogoalexandria) e [Tatiane Correa](https://github.com/taticorrea), na elaboração de um aplicativo
-de lista de compras que tem por objetivo comparar o valor total de uma lista de compras em diferentes
-super mercados. Utilizamos o github para versionamento de código e Trello para organizar as tarefas.
 
 ## Contatos e redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](www.linkedin.com/in/williamsobrinho-devandroid)
