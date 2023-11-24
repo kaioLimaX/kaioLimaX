@@ -22,7 +22,7 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 
 ## Últimos aplicativos criados:
 
-- [App Gorjeta <img src = "https://user-images.githubusercontent.com/111225477/236838826-772f0d0a-16d9-4d9b-904e-8dfbe260c29c.svg" width = "15px">  ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Publicado na playStore , o App calcula o percentual de gorgeta de acordo com o valor da conta em um restaurante. 💰
+- [App MarketCalc ->](https://github.com/kaioLimaX/MarketCalc) O app Basicamente faz o calculo enquanto vc está utilizando o mercado
 - [App Quiz Dynamox](https://github.com/William-Sobrinho-Geraldo/Quiz_DYNAMOX) - App com requisições API para buscar aleatoriamente perguntas e respostas do servidor da empresa Dynamox e mostrar na tela. Também corrige a alternativa escolhita através de um POST () feito pelo Retrofit. 💻
 - [App My market List - Android Nativo ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_Android) Projeto de lista de compras que tem como objetivo comparar o valor de uma lista em diferentes super mercados.   🛒
 - [App My market List - React Native ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_React_Native) Refatoração do projeto My market list para React Native, decidimos migrar para o desenvolvimento Híbrido a fim de ter uma escalabilidade maior do projeto.   🛒🛒
