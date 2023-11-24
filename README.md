@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ad4a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Caio+Lima;Tenho+29+anos+e+moro+em+Extrema,+MG;Sou+dev+mobile;Seja+bem+vindo+ao+meu+portfólio!+:%29)](https://git.io/typing-svg)
 
-# Olá! Seja Bem Vindo ao meu Perfil!  ✋🙂
+# Olá! Seja Bem Vindo ao meu Perfil !  ✋🙂
 "Apaixonado por tecnologia, programação, Musica e investimentos"
 
 ## Resumo Profissional
