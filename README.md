@@ -6,7 +6,7 @@
 "Apaixonado por tecnologia, programação, Musica e investimentos"
 
 ## Resumo Profissional
-Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android . Acostumado a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App Portal da Transparência em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código.
+Sou um desenvolvedor mobile com experiência no desenvolvimento de Apps nativos em Android . Acostumado a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App Portal da Transparência em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código.
 <br/>
 
 Tenho noções básicas em Python, Flutter e HTML mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
