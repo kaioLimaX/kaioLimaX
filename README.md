@@ -5,16 +5,6 @@
 # Olá! Seja Bem Vindo ao meu Perfil !  ✋🙂
 "Apaixonado por tecnologia, programação e Musica"
 
-## Resumo Profissional
-Sou um desenvolvedor mobile com experiência no desenvolvimento de Apps nativos em Android . Acostumado a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App Portal da Transparência em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código.
-<br/>
-
-Tenho noções básicas em Python, Flutter e HTML mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
-<br/>
-
-Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e evoluir em conjunto. Desejo encontrar uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
-<br/>
-
 <div align="center">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaioLimaX&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -55,22 +45,6 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTTPS-%20-red">
     
 </div>
-
-<br/>
-
-## Resumo Educacional
-Me chamo Caio e sou uma pessoa curiosa, sempre em busca de novos conhecimentos e habilidades. Há mais de 10 anos sou músico e sou apaixonado por tecnologia. Logo no primeiro período da faculdade, tive contato com linguagem de programação e lógica, mas minha paixão pela área foi despertada mesmo na minha experiência como jogador de videogame. Porém, havia coisas no jogo que não estavam de acordo com o que eu desejava, então decidi criar meu próprio servidor. Foi nesse momento que tive meu primeiro contato real com programação, utilizando HTML, CSS, XML, Lua e também aprendi a utilizar o sistema operacional Linux. Utilizei também o banco de dados MySQL. A partir daí, iniciei minha carreira realizando manutenção e implementação de recursos para clientes que possuíam servidores na época.
-
-Minha sede por resolver problemas só aumentou, porém meu conhecimento ainda era muito focado na parte do jogo em si. No meu dia a dia, surgiam diversos problemas comuns que exigiam diferentes formas de resolução. Inicialmente, desejava desenvolver um sistema multiplataforma, mas não tinha conhecimento para isso. Então, desenvolvi um sistema responsivo utilizando Bootstrap. Entretanto, não tinha acesso a todos os recursos disponíveis para um sistema mobile. Após concluir todo o sistema responsivo, comecei a estudar programação híbrida em Java, desenvolvendo aplicativos como uma calculadora de juros compostos, um sistema de gerenciamento de estoque, um sistema de pagamento para motoboys e um sistema de GPS para uma loja de móveis. Foi a partir desse momento que minha paixão pelo desenvolvimento mobile só aumentou.
-
-No início de 2022, decidi me dedicar integralmente ao desenvolvimento mobile e iniciei uma mentoria intensiva com a CODANS, onde aprendi diversos princípios e arquiteturas para aprimorar minhas práticas de programação. No ano de 2024, irei iniciar um tecnólogo na área de Desenvolvimento Mobile.
- <br/>
-
-
-
-
-
-<br/>
 
 
 ## Contatos e redes sociais:
