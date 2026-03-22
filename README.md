@@ -44,7 +44,7 @@ Demonstrates correct handling of sensitive data and secure storage patterns in m
 
 ## 🤝 Team Experience
 
-### 👥 [Boostcamp Playground (2026)](https://github.com/CaiioLima/Projeto_Boostcamp)
+### 👥 [Boostcamp Playground (2026)](https://github.com/CaiioLima/Projeto_BoostCamp_2026)
 
 Team-based Android project built during **BoostCamp (Codans 2026)** as part of a collaborative development challenge.
 
